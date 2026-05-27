@@ -17,7 +17,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 # ================= НАСТРОЙКИ =================
 
-TOKEN = "8480325422:AAEI_aoYULM4LUfcV5xYaA31xiIPnSIQZ2o"
+TOKEN = "7989335129:AAGLPYRzQcIO1DoGjsCDYXV4Y4yeypZuAgY"
 ADMIN_ID = 6770764111
 
 bot = Bot(token=TOKEN)
